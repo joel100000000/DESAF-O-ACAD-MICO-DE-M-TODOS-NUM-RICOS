@@ -410,7 +410,7 @@ Para utilizar el programa:
 
 Abrir:
 
-`finanzas_numericas_gcp_mejorado.html`
+` https://joel100000000.github.io/DESAF-O-ACAD-MICO-DE-M-TODOS-NUM-RICOS/`
 
 con Google Chrome, Microsoft Edge, Firefox u otro navegador moderno.
 
